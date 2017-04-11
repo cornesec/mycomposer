@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "cornesec": {
+    "title": "",
+    "website": "https://github.com/cornesec",
+    "logo": "https://avatars1.githubusercontent.com/u/27218431?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/cornesec",
           "versions": {
             "1.0.0": {
               "simple": {
